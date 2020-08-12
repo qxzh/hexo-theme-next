@@ -121,6 +121,7 @@ menu:
   标签: /tags/ || fa fa-tags
   目录: /contents/ || fa fa-th
   归档: /archives/ || fa fa-archive
+  开发: /contributing/ || fa fa-heartbeat
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
