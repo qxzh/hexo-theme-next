@@ -167,7 +167,6 @@
     {#################}
 
     {% if not is_index %}
-    {% include 'group.swig' %}
     {% include 'back.swig' %}
     {% endif %}
 
